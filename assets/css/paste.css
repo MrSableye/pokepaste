@@ -24,8 +24,15 @@ div.img {
 }
 
 img.img-pokemon {
-	width: 150px;
-	height: 150px;
+	width: 192px;
+	height: 192px;
+}
+
+img.sprite {
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -webkit-crisp-edges;
+	image-rendering: pixelated;
+	image-rendering: crisp-edges;
 }
 
 img.img-item {

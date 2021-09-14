@@ -1,4 +1,4 @@
-package pokepaste
+package main
 
 import (
 	"encoding/binary"

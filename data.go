@@ -1,4 +1,4 @@
-package pokepaste
+package main
 
 var pokemonData = map[string]map[string]interface{}{
 	"Missingno": {
@@ -6026,6 +6026,2696 @@ var pokemonData = map[string]map[string]interface{}{
 		"form": uint(0),
 		"type": "bug",
 	},
+	"Maplage" : {
+		"id": uint(42001),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Hazelnaut" : {
+		"id": uint(42002),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Ginocchio" : {
+		"id": uint(42003),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Magmata" : {
+		"id": uint(42004),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Delava" : {
+		"id": uint(42005),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Salezerker" : {
+		"id": uint(42006),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Frudge" : {
+		"id": uint(42007),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Chaotark" : {
+		"id": uint(42008),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Lemirethun" : {
+		"id": uint(42009),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Jermouse" : {
+		"id": uint(42010),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Spiranha" : {
+		"id": uint(42013),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Selaghast" : {
+		"id": uint(42014),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Karkutlass" : {
+		"id": uint(42015),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Bandicute" : {
+		"id": uint(42016),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Naughtycoot" : {
+		"id": uint(42017),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Frijolero" : {
+		"id": uint(42018),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Picantero" : {
+		"id": uint(42019),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Sherifuego" : {
+		"id": uint(42020),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Magghost" : {
+		"id": uint(42021),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Coccurn" : {
+		"id": uint(42022),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Phamothom" : {
+		"id": uint(42023),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Larvitty" : {
+		"id": uint(42024),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Grumpoon" : {
+		"id": uint(42025),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Konekoth" : {
+		"id": uint(42026),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Hyduck" : {
+		"id": uint(42027),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Bluduck" : {
+		"id": uint(42028),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Platylics" : {
+		"id": uint(42029),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Hamstatic" : {
+		"id": uint(42030),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Ampstar" : {
+		"id": uint(42031),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Disbeary" : {
+		"id": uint(42032),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Fungnet" : {
+		"id": uint(42033),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Floribel" : {
+		"id": uint(42034),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Mogeria" : {
+		"id": uint(42035),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Flarhea" : {
+		"id": uint(42036),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Pedestone" : {
+		"id": uint(42037),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Pillaia" : {
+		"id": uint(42038),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Erochre" : {
+		"id": uint(42039),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Canamaple" : {
+		"id": uint(42040),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Frozweed" : {
+		"id": uint(42041),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Arachnote" : {
+		"id": uint(42042),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Turturret" : {
+		"id": uint(42043),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Spycrab" : {
+		"id": uint(42044),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Weatherbane" : {
+		"id": uint(42045),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Cyclonian" : {
+		"id": uint(42046),
+		"form": uint(0),
+		"type": "flying",
+	},
+	"Simionach" : {
+		"id": uint(42047),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Wattitude" : {
+		"id": uint(42048),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Korokami" : {
+		"id": uint(42049),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Sabsute" : {
+		"id": uint(42050),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Dollghost" : {
+		"id": uint(42051),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Tarquail" : {
+		"id": uint(42052),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Eccosmic" : {
+		"id": uint(42053),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Bearedaze" : {
+		"id": uint(42054),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Kumataro" : {
+		"id": uint(42055),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Sokumite" : {
+		"id": uint(42056),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Serpervent" : {
+		"id": uint(42057),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Tsemani" : {
+		"id": uint(42058),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Toxipole" : {
+		"id": uint(42059),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Venoad" : {
+		"id": uint(42060),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Berfgoyle" : {
+		"id": uint(42061),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Celestare" : {
+		"id": uint(42062),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Haregee" : {
+		"id": uint(42063),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Lunabbit" : {
+		"id": uint(42064),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Camorogue" : {
+		"id": uint(42065),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Puncheleon" : {
+		"id": uint(42066),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Chamelee" : {
+		"id": uint(42067),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Toastort" : {
+		"id": uint(42068),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Horntuba" : {
+		"id": uint(42069),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Cristanium" : {
+		"id": uint(42070),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Cheesetah" : {
+		"id": uint(42071),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Whipsicuffs" : {
+		"id": uint(42072),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Tarantagon" : {
+		"id": uint(42073),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Pegui" : {
+		"id": uint(42074),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Pechit" : {
+		"id": uint(42075),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Copolar" : {
+		"id": uint(42076),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Yuukiino" : {
+		"id": uint(42077),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Aquadiiva" : {
+		"id": uint(42078),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Monkite" : {
+		"id": uint(42079),
+		"form": uint(0),
+		"type": "flying",
+	},
+	"Konglide" : {
+		"id": uint(42080),
+		"form": uint(0),
+		"type": "flying",
+	},
+	"Yokite" : {
+		"id": uint(42081),
+		"form": uint(0),
+		"type": "flying",
+	},
+	"Borkosmos" : {
+		"id": uint(42082),
+		"form": uint(0),
+		"type": "flying",
+	},
+	"Skallaxy" : {
+		"id": uint(42083),
+		"form": uint(0),
+		"type": "flying",
+	},
+	"Icehugger" : {
+		"id": uint(42084),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Xeninter" : {
+		"id": uint(42085),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Bubbasaur" : {
+		"id": uint(42086),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Bungaloon" : {
+		"id": uint(42087),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Envile" : {
+		"id": uint(42088),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Kaustikrok" : {
+		"id": uint(42089),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"3dawg" : {
+		"id": uint(42090),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Drattel" : {
+		"id": uint(42090),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Zillichina" : {
+		"id": uint(42091),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Venireal" : {
+		"id": uint(42092),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Apocamise" : {
+		"id": uint(42093),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Voliath" : {
+		"id": uint(42094),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Mafiadon" : {
+		"id": uint(42095),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Wycern" : {
+		"id": uint(42096),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Bitteragon" : {
+		"id": uint(42097),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Trickling" : {
+		"id": uint(42098),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Draklown" : {
+		"id": uint(42099),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Moyalith" : {
+		"id": uint(42100),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Dinomight" : {
+		"id": uint(42101),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Cocken" : {
+		"id": uint(42102),
+		"form": uint(0),
+		"type": "???",
+	},
+	"Primateve" : {
+		"id": uint(42103),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Tokoyaki" : {
+		"id": uint(42104),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Onsenpura" : {
+		"id": uint(42105),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Vulkancer" : {
+		"id": uint(42106),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Dubsnake" : {
+		"id": uint(42107),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Hydroil" : {
+		"id": uint(42108),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Equuan" : {
+		"id": uint(42109),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Impfection" : {
+		"id": uint(42110),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Junkgeist" : {
+		"id": uint(42111),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Krissy" : {
+		"id": uint(42112),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Krackodemon" : {
+		"id": uint(42113),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Strollge" : {
+		"id": uint(42114),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Mamini" : {
+		"id": uint(42115),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Mammount" : {
+		"id": uint(42116),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Vriskeleton" : {
+		"id": uint(42117),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Bulbfrog" : {
+		"id": uint(42118),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Ballboa" : {
+		"id": uint(42119),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Semmush" : {
+		"id": uint(42120),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Husbin" : {
+		"id": uint(42121),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Smogars" : {
+		"id": uint(42122),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Noxilium" : {
+		"id": uint(42124),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Fusjahl" : {
+		"id": uint(42125),
+		"form": uint(0),
+		"type": "???",
+	},
+	"Indignifly" : {
+		"id": uint(42126),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Regishort" : {
+		"id": uint(42127),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Regicide" : {
+		"id": uint(42128),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Regigigone" : {
+		"id": uint(42129),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Glaciun" : {
+		"id": uint(42130),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Galvadeux" : {
+		"id": uint(42131),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Pyrotrois" : {
+		"id": uint(42132),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Ranruu" : {
+		"id": uint(42133),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Loituma" : {
+		"id": uint(42134),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Ignifatu" : {
+		"id": uint(42135),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Spenjbab" : {
+		"id": uint(42136),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Gigapuddi" : {
+		"id": uint(42137),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Empidae" : {
+		"id": uint(42138),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Phantorney" : {
+		"id": uint(42139),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Cirnumiru" : {
+		"id": uint(42140),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Seraphill" : {
+		"id": uint(42141),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Shiribiko" : {
+		"id": uint(42142),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Nyanonite" : {
+		"id": uint(42143),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Ankhira" : {
+		"id": uint(42144),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Ankhpu" : {
+		"id": uint(42145),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Ankhurah" : {
+		"id": uint(42146),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Squithee" : {
+		"id": uint(42147),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Goblazer" : {
+		"id": uint(42148),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Warghork" : {
+		"id": uint(42149),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Wawho" : {
+		"id": uint(42150),
+		"form": uint(0),
+		"type": "???",
+	},
+	"Sableven" : {
+		"id": uint(42151),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Doomsday" : {
+		"id": uint(42152),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Katir" : {
+		"id": uint(42241),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Grasshole" : {
+		"id": uint(69001),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Analgae" : {
+		"id": uint(69002),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Rectreem" : {
+		"id": uint(69003),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Arabomb" : {
+		"id": uint(69004),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Iguallah" : {
+		"id": uint(69005),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Lizakbar" : {
+		"id": uint(69006),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Ejacasm" : {
+		"id": uint(69007),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Hosajack" : {
+		"id": uint(69008),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Condoom" : {
+		"id": uint(69009),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Squirrap" : {
+		"id": uint(69010),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Gampster" : {
+		"id": uint(69011),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Kengeon" : {
+		"id": uint(69012),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Frieden" : {
+		"id": uint(69013),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Corooster" : {
+		"id": uint(69014),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Curicrawl" : {
+		"id": uint(69015),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Gutsicoon" : {
+		"id": uint(69016),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Gutsifly" : {
+		"id": uint(69017),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Larvades" : {
+		"id": uint(69018),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Proboskito" : {
+		"id": uint(69019),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Clovour" : {
+		"id": uint(69020),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Chanolour" : {
+		"id": uint(69021),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Nauseon" : {
+		"id": uint(69022),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Hazmate" : {
+		"id": uint(69023),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Ebolable" : {
+		"id": uint(69024),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Pikotton" : {
+		"id": uint(69025),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Birdhouse" : {
+		"id": uint(69026),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Lanshil" : {
+		"id": uint(69027),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Middril" : {
+		"id": uint(69028),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Shurismash" : {
+		"id": uint(69029),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Maymay" : {
+		"id": uint(69030),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Memenace" : {
+		"id": uint(69031),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Vandash" : {
+		"id": uint(69032),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Piguson" : {
+		"id": uint(69033),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Armando" : {
+		"id": uint(69034),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Muscledude" : {
+		"id": uint(69035),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Tripecs" : {
+		"id": uint(69036),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Semdrop" : {
+		"id": uint(69037),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Semrust" : {
+		"id": uint(69038),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Furnazi" : {
+		"id": uint(69039),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Finasoven" : {
+		"id": uint(69040),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Troubait" : {
+		"id": uint(69041),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Tulure" : {
+		"id": uint(69042),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Monstrap" : {
+		"id": uint(69043),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Pixila" : {
+		"id": uint(69044),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Fairileon" : {
+		"id": uint(69045),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Wedgard" : {
+		"id": uint(69046),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Knokedge" : {
+		"id": uint(69047),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Ribbizap" : {
+		"id": uint(69048),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Elephas" : {
+		"id": uint(69049),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Seamapan" : {
+		"id": uint(69050),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Caroline" : {
+		"id": uint(69051),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Chompest" : {
+		"id": uint(69052),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Masdawg" : {
+		"id": uint(69053),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Pasdawg" : {
+		"id": uint(69054),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Spanke" : {
+		"id": uint(69055),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Anaconduke" : {
+		"id": uint(69056),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Fishnism" : {
+		"id": uint(69057),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Sjwhale" : {
+		"id": uint(69058),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Chezetta" : {
+		"id": uint(69059),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Mozzamazel" : {
+		"id": uint(69060),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Krokling" : {
+		"id": uint(69061),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Krokizon" : {
+		"id": uint(69062),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Conchilla" : {
+		"id": uint(69063),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Haremit" : {
+		"id": uint(69064),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Coolcube" : {
+		"id": uint(69065),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Tankube" : {
+		"id": uint(69066),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Fabkube" : {
+		"id": uint(69067),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Smogaroben" : {
+		"id": uint(69068),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Smoxilon" : {
+		"id": uint(69069),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Machmona" : {
+		"id": uint(69070),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Bacub" : {
+		"id": uint(69071),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Urswine" : {
+		"id": uint(69072),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Moostatic" : {
+		"id": uint(69073),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Mooshock" : {
+		"id": uint(69074),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Pretzely" : {
+		"id": uint(69075),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Deemdow" : {
+		"id": uint(69076),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Dowster" : {
+		"id": uint(69077),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Cheerly" : {
+		"id": uint(69078),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Cheerific" : {
+		"id": uint(69079),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Mennopaws" : {
+		"id": uint(69080),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Caracold" : {
+		"id": uint(69081),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Glacialynx" : {
+		"id": uint(69082),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Pengas" : {
+		"id": uint(69083),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Praeteur" : {
+		"id": uint(69084),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Praestish" : {
+		"id": uint(69085),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Flowre" : {
+		"id": uint(69086),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Florious" : {
+		"id": uint(69087),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Juarecito" : {
+		"id": uint(69088),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Ponchito" : {
+		"id": uint(69089),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Somboludo" : {
+		"id": uint(69090),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Puppacti" : {
+		"id": uint(69091),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Marionettl" : {
+		"id": uint(69092),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Tittai" : {
+		"id": uint(69093),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Octai" : {
+		"id": uint(69094),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Charagon" : {
+		"id": uint(69095),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Hyletrack" : {
+		"id": uint(69096),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Euphoreal" : {
+		"id": uint(69097),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Armowite" : {
+		"id": uint(69098),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Praunch" : {
+		"id": uint(69099),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Karawn" : {
+		"id": uint(69100),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Mabster" : {
+		"id": uint(69101),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Tricient" : {
+		"id": uint(69102),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Tricillion" : {
+		"id": uint(69103),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Poizookie" : {
+		"id": uint(69104),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Toxiraptor" : {
+		"id": uint(69105),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Sabreck" : {
+		"id": uint(69106),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Huntabre" : {
+		"id": uint(69107),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Pyralink" : {
+		"id": uint(69108),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Singlets" : {
+		"id": uint(69109),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Dubus" : {
+		"id": uint(69110),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Tripsius" : {
+		"id": uint(69111),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Miasmer" : {
+		"id": uint(69112),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Miasmortor" : {
+		"id": uint(69113),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Cacademon" : {
+		"id": uint(69114),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Hanginy" : {
+		"id": uint(69115),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Chancer" : {
+		"id": uint(69116),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Unjoy" : {
+		"id": uint(69117),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Frosowl" : {
+		"id": uint(69118),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Whizzard" : {
+		"id": uint(69119),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Drapillar" : {
+		"id": uint(69120),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Caparagon" : {
+		"id": uint(69121),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Mantrake" : {
+		"id": uint(69122),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Ogrelord" : {
+		"id": uint(69123),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Chantruth" : {
+		"id": uint(69124),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Inbitween" : {
+		"id": uint(69125),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Geigh" : {
+		"id": uint(69126),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Jarape" : {
+		"id": uint(69127),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Spilefree" : {
+		"id": uint(69128),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Bongecko" : {
+		"id": uint(69129),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Mariguana" : {
+		"id": uint(69130),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Marleyzard" : {
+		"id": uint(69131),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Blobbos" : {
+		"id": uint(69132),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Ayylamo" : {
+		"id": uint(69133),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Smellox" : {
+		"id": uint(69134),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Chasumo" : {
+		"id": uint(69135),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Oilslam" : {
+		"id": uint(69136),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Isissin" : {
+		"id": uint(69137),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Stuffowl" : {
+		"id": uint(69138),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Durkey" : {
+		"id": uint(69139),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Upchucken" : {
+		"id": uint(69140),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Dragun" : {
+		"id": uint(69141),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Triggedon" : {
+		"id": uint(69142),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Cannonance" : {
+		"id": uint(69143),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Evacycle" : {
+		"id": uint(69144),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Foryu" : {
+		"id": uint(69145),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Scytill" : {
+		"id": uint(69146),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Baddon" : {
+		"id": uint(69147),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Endranther" : {
+		"id": uint(69148),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Notridley" : {
+		"id": uint(69149),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Demiwaifu" : {
+		"id": uint(69150),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Clovenix" : {
+		"id": uint(69151),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Reptyke" : {
+		"id": uint(69152),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Rasclobber" : {
+		"id": uint(69153),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Batterex" : {
+		"id": uint(69154),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Faeriock" : {
+		"id": uint(69155),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Sylvuin" : {
+		"id": uint(69156),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Oburonyxo" : {
+		"id": uint(69157),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Cloucat" : {
+		"id": uint(69158),
+		"form": uint(0),
+		"type": "flying",
+	},
+	"Felimbus" : {
+		"id": uint(69159),
+		"form": uint(0),
+		"type": "flying",
+	},
+	"Deathorus" : {
+		"id": uint(69160),
+		"form": uint(0),
+		"type": "flying",
+	},
+	"Knogoat" : {
+		"id": uint(69161),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Knogrinyu" : {
+		"id": uint(69162),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Glasshot" : {
+		"id": uint(69163),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Glassannon" : {
+		"id": uint(69164),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Fluffyeti" : {
+		"id": uint(69165),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Yedoom" : {
+		"id": uint(69166),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Mirrostine" : {
+		"id": uint(69167),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Mudpants" : {
+		"id": uint(69168),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Mudslacks" : {
+		"id": uint(69169),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Bukitlee" : {
+		"id": uint(69170),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Lossolith" : {
+		"id": uint(69171),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Mimimie" : {
+		"id": uint(69172),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Sprucifix" : {
+		"id": uint(69173),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Hulkan" : {
+		"id": uint(69174),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Nonite" : {
+		"id": uint(69175),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Nonegative" : {
+		"id": uint(69176),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Nomaestro" : {
+		"id": uint(69177),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Dunkypea" : {
+		"id": uint(69178),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Burdmen" : {
+		"id": uint(69179),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Nutzboltz" : {
+		"id": uint(69180),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Kuklux" : {
+		"id": uint(69181),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Kuklan" : {
+		"id": uint(69182),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Flameboyan" : {
+		"id": uint(69183),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Piicee" : {
+		"id": uint(69184),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Sonnanos" : {
+		"id": uint(69185),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Plebbles" : {
+		"id": uint(69186),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Sapleaf" : {
+		"id": uint(69187),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Ignut" : {
+		"id": uint(69188),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Phantash" : {
+		"id": uint(69189),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Polossus" : {
+		"id": uint(69190),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Hitmonana" : {
+		"id": uint(69191),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Ballacle" : {
+		"id": uint(69192),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Barbarkley" : {
+		"id": uint(69193),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Kekroach" : {
+		"id": uint(69194),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Rekroach" : {
+		"id": uint(69195),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Ricosheep" : {
+		"id": uint(69196),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Ricosuave" : {
+		"id": uint(69197),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Spaghefant" : {
+		"id": uint(69198),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Crystaquil" : {
+		"id": uint(69199),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Crystaking" : {
+		"id": uint(69200),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Fontaba" : {
+		"id": uint(69201),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Floconut" : {
+		"id": uint(69202),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Sappalm" : {
+		"id": uint(69203),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Roynapalm" : {
+		"id": uint(69204),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Manateet" : {
+		"id": uint(69205),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Manatorque" : {
+		"id": uint(69206),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Manatank" : {
+		"id": uint(69207),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Anonymouse" : {
+		"id": uint(69208),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Motherfuck" : {
+		"id": uint(69209),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Ninoop" : {
+		"id": uint(69210),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Draconius" : {
+		"id": uint(69211),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Ticktac" : {
+		"id": uint(69212),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Eareticle" : {
+		"id": uint(69213),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Scythear" : {
+		"id": uint(69214),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Cozload" : {
+		"id": uint(69215),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Snugware" : {
+		"id": uint(69216),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Fleespecs" : {
+		"id": uint(69217),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Honrade" : {
+		"id": uint(69218),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Embortion" : {
+		"id": uint(69219),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Premantom" : {
+		"id": uint(69220),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Galavik" : {
+		"id": uint(69221),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Galavire" : {
+		"id": uint(69222),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Galaviste" : {
+		"id": uint(69223),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Pollefin" : {
+		"id": uint(69224),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Florigrace" : {
+		"id": uint(69225),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Lasslee" : {
+		"id": uint(69226),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Wifemin" : {
+		"id": uint(69227),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Uwotto" : {
+		"id": uint(69228),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Venowatt" : {
+		"id": uint(69229),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Vaultevour" : {
+		"id": uint(69230),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Semdemen" : {
+		"id": uint(69231),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Dragking" : {
+		"id": uint(69232),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Kuuroba" : {
+		"id": uint(69233),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Baitmaster" : {
+		"id": uint(69234),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Spookster" : {
+		"id": uint(69235),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Spookeer" : {
+		"id": uint(69236),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Spookzilla" : {
+		"id": uint(69237),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Derpato" : {
+		"id": uint(69238),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Retater" : {
+		"id": uint(69239),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Potarded" : {
+		"id": uint(69240),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Sadfish" : {
+		"id": uint(69241),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Deloris" : {
+		"id": uint(69242),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Oreon" : {
+		"id": uint(69243),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Farfigtron" : {
+		"id": uint(69244),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Regirode" : {
+		"id": uint(69245),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Regimelt" : {
+		"id": uint(69246),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Regirust" : {
+		"id": uint(69247),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Jewipede" : {
+		"id": uint(69248),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Vivaiger" : {
+		"id": uint(69249),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Heliofug" : {
+		"id": uint(69250),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Adesign" : {
+		"id": uint(69251),
+		"form": uint(0),
+		"type": "???",
+	},
+	"Sadrog" : {
+		"id": uint(69252),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Smugrok" : {
+		"id": uint(69253),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Peperee" : {
+		"id": uint(69254),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Hodtog" : {
+		"id": uint(69255),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Wienebark" : {
+		"id": uint(69256),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Saudoge" : {
+		"id": uint(69257),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Gnarrk" : {
+		"id": uint(69258),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Corsharrk" : {
+		"id": uint(69259),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Davyjaws" : {
+		"id": uint(69260),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Humpunny" : {
+		"id": uint(69261),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Bunnorgy" : {
+		"id": uint(69262),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Emelgy" : {
+		"id": uint(69263),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Fedorawk" : {
+		"id": uint(69264),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"FaZeagle" : {
+		"id": uint(69265),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Catikillar" : {
+		"id": uint(69266),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Tikoon" : {
+		"id": uint(69267),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Oogabuga" : {
+		"id": uint(69268),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Ebining" : {
+		"id": uint(69269),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Emplyin" : {
+		"id": uint(69270),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Upbote" : {
+		"id": uint(69271),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Upbeddit" : {
+		"id": uint(69272),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Flipbird" : {
+		"id": uint(69273),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Wheygle" : {
+		"id": uint(69274),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Gangnome" : {
+		"id": uint(69275),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Pyongnome" : {
+		"id": uint(69276),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Bruhkid" : {
+		"id": uint(69277),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Ubruh" : {
+		"id": uint(69278),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Walruse" : {
+		"id": uint(69279),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Walruskie" : {
+		"id": uint(69280),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Diobat" : {
+		"id": uint(69281),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Warudio" : {
+		"id": uint(69282),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Docee" : {
+		"id": uint(69283),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Donutsteel" : {
+		"id": uint(69284),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Cakupple" : {
+		"id": uint(69285),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Fondupple" : {
+		"id": uint(69286),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Baloofang" : {
+		"id": uint(69287),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Socckat" : {
+		"id": uint(69288),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Egylamp" : {
+		"id": uint(69289),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Ruselamp" : {
+		"id": uint(69290),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Mehndior" : {
+		"id": uint(69291),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Tunakking" : {
+		"id": uint(69292),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Missletoe" : {
+		"id": uint(69293),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Hohohoming" : {
+		"id": uint(69294),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Flaa" : {
+		"id": uint(69295),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Hopault" : {
+		"id": uint(69296),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Araketsu" : {
+		"id": uint(69297),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Senketula" : {
+		"id": uint(69298),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Falcaptain" : {
+		"id": uint(69299),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Cirpent" : {
+		"id": uint(69300),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Traumobra" : {
+		"id": uint(69301),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Lizascoop" : {
+		"id": uint(69302),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Reptrill" : {
+		"id": uint(69303),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Fefeion" : {
+		"id": uint(69304),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Feferun" : {
+		"id": uint(69305),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Jerkle" : {
+		"id": uint(69306),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Faptime" : {
+		"id": uint(69307),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Shiriman" : {
+		"id": uint(69308),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Fresrye" : {
+		"id": uint(69309),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Dedwheat" : {
+		"id": uint(69310),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Nutjobber" : {
+		"id": uint(69311),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Deisnutz" : {
+		"id": uint(69312),
+		"form": uint(0),
+		"type": "ghost",
+	},
+	"Spargle" : {
+		"id": uint(69313),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Spedo" : {
+		"id": uint(69314),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Housant" : {
+		"id": uint(69315),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Apartmant" : {
+		"id": uint(69316),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Fuermiga" : {
+		"id": uint(69317),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Maripyro" : {
+		"id": uint(69318),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Confirmabi" : {
+		"id": uint(69319),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Bulbapedo" : {
+		"id": uint(69320),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Wastenaut" : {
+		"id": uint(69321),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Wantnaut" : {
+		"id": uint(69322),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Cansumor" : {
+		"id": uint(69323),
+		"form": uint(0),
+		"type": "poison",
+	},
+	"Snuffant" : {
+		"id": uint(69324),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Cokemmoth" : {
+		"id": uint(69325),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Grimdak" : {
+		"id": uint(69326),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Shroofle" : {
+		"id": uint(69327),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Betacluck" : {
+		"id": uint(69328),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Thundacock" : {
+		"id": uint(69329),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Twinfowl" : {
+		"id": uint(69330),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Avianjoin" : {
+		"id": uint(69331),
+		"form": uint(0),
+		"type": "steel",
+	},
+	"Illuminowl" : {
+		"id": uint(69332),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Illumatrix" : {
+		"id": uint(69333),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Typobop" : {
+		"id": uint(69334),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Yeerex" : {
+		"id": uint(69335),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Randomix" : {
+		"id": uint(69336),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Cthullord" : {
+		"id": uint(69337),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Quiboom" : {
+		"id": uint(69338),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Gynuke" : {
+		"id": uint(69339),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Rainglock" : {
+		"id": uint(69340),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Beatmarine" : {
+		"id": uint(69341),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Substarr" : {
+		"id": uint(69342),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Hofucno" : {
+		"id": uint(69343),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Hornigiri" : {
+		"id": uint(69344),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Hornicier" : {
+		"id": uint(69345),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Hornititan" : {
+		"id": uint(69346),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Preasu" : {
+		"id": uint(69347),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Undastand" : {
+		"id": uint(69348),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Warney" : {
+		"id": uint(69349),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Banageddon" : {
+		"id": uint(69350),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Acufront" : {
+		"id": uint(69351),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Militant" : {
+		"id": uint(69352),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Shiggydig" : {
+		"id": uint(69353),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Signot" : {
+		"id": uint(69354),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Reagain" : {
+		"id": uint(69355),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Ormite" : {
+		"id": uint(69356),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Viristal" : {
+		"id": uint(69357),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Rolango" : {
+		"id": uint(69358),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Dreameme" : {
+		"id": uint(69359),
+		"form": uint(0),
+		"type": "dragon",
+	},
+	"Pearchie" : {
+		"id": uint(69360),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Tarditank" : {
+		"id": uint(69361),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Iplora" : {
+		"id": uint(69362),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Chromox" : {
+		"id": uint(69363),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Pitayen" : {
+		"id": uint(69364),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Dragaya" : {
+		"id": uint(69365),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Frutagon" : {
+		"id": uint(69366),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Biteki" : {
+		"id": uint(69367),
+		"form": uint(0),
+		"type": "ice",
+	},
+	"Sesquatch" : {
+		"id": uint(69368),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Fireshi" : {
+		"id": uint(69369),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Fireshitwi" : {
+		"id": uint(69370),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Fireshitre" : {
+		"id": uint(69371),
+		"form": uint(0),
+		"type": "fire",
+	},
+	"Slugbud" : {
+		"id": uint(69372),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Slughug" : {
+		"id": uint(69373),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Slugfugg" : {
+		"id": uint(69374),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Skeletroll" : {
+		"id": uint(69375),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Spookscare" : {
+		"id": uint(69376),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Goryannus" : {
+		"id": uint(69377),
+		"form": uint(0),
+		"type": "ground",
+	},
+	"Lankong" : {
+		"id": uint(69378),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Ballankey" : {
+		"id": uint(69379),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Funnedong" : {
+		"id": uint(69380),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Narwhiz" : {
+		"id": uint(69381),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Niterpent" : {
+		"id": uint(69382),
+		"form": uint(0),
+		"type": "electric",
+	},
+	"Griffawork" : {
+		"id": uint(69383),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Boarnograf" : {
+		"id": uint(69384),
+		"form": uint(0),
+		"type": "dark",
+	},
+	"Admoot" : {
+		"id": uint(69385),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Tentaquil" : {
+		"id": uint(69386),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Mega Blobbos" : {
+		"id": uint(69387),
+		"form": uint(0),
+		"type": "???",
+	},
 }
 
 var moveData = map[string]map[string]interface{}{
@@ -9652,6 +12342,526 @@ var moveData = map[string]map[string]interface{}{
 	"Steel Beam": {
 		"id": 0,
 		"type": "steel",
+		"classification": uint(2),
+	},
+	"1000 Folds" : {
+		"id": uint(0),
+		"type": "Steel",
+		"classification": uint(1),
+	},
+	"An Attack" : {
+		"id": uint(0),
+		"type": "???",
+		"classification": uint(1),
+	},
+	"Avian Rush" : {
+		"id": uint(0),
+		"type": "???",
+		"classification": uint(1),
+	},
+	"Awaken" : {
+		"id": uint(0),
+		"type": "Fighting",
+		"classification": uint(0),
+	},
+	"Backdraft" : {
+		"id": uint(0),
+		"type": "Flying",
+		"classification": uint(1),
+	},
+	"Bad Eggs" : {
+		"id": uint(0),
+		"type": "Dark",
+		"classification": uint(1),
+	},
+	"Ban Hammer" : {
+		"id": uint(0),
+		"type": "Normal",
+		"classification": uint(1),
+	},
+	"Blobby Bop" : {
+		"id": uint(0),
+		"type": "Ice",
+		"classification": uint(1),
+	},
+	"Boil Over" : {
+		"id": uint(0),
+		"type": "Normal",
+		"classification": uint(2),
+	},
+	"Boltbeam" : {
+		"id": uint(0),
+		"type": "Electric",
+		"classification": uint(2),
+	},
+	"Branding Blade" : {
+		"id": uint(0),
+		"type": "Steel",
+		"classification": uint(1),
+	},
+	"Brutal Punishment" : {
+		"id": uint(0),
+		"type": "Fairy",
+		"classification": uint(1),
+	},
+	"Chaos Dunk" : {
+		"id": uint(0),
+		"type": "Rock",
+		"classification": uint(1),
+	},
+	"Check 'Em" : {
+		"id": uint(0),
+		"type": "Psychic",
+		"classification": uint(2),
+	},
+	"Cheese Claw" : {
+		"id": uint(0),
+		"type": "Fighting",
+		"classification": uint(1),
+	},
+	"Cloud Breaker" : {
+		"id": uint(0),
+		"type": "Flying",
+		"classification": uint(2),
+	},
+	"Cold Cutter" : {
+		"id": uint(0),
+		"type": "Ice",
+		"classification": uint(1),
+	},
+	"Come n' Go" : {
+		"id": uint(0),
+		"type": "Water",
+		"classification": uint(2),
+	},
+	"Cope" : {
+		"id": uint(0),
+		"type": "Bug",
+		"classification": uint(2),
+	},
+	"Crusader Crash" : {
+		"id": uint(0),
+		"type": "Fighting",
+		"classification": uint(1),
+	},
+	"Daily Dose" : {
+		"id": uint(0),
+		"type": "Poison",
+		"classification": uint(2),
+	},
+	"Decay Drain" : {
+		"id": uint(0),
+		"type": "Poison",
+		"classification": uint(1),
+	},
+	"Dildo Cannon" : {
+		"id": uint(0),
+		"type": "Dragon",
+		"classification": uint(1),
+	},
+	"Dragon Burst" : {
+		"id": uint(0),
+		"type": "Dragon",
+		"classification": uint(2),
+	},
+	"Dragon Fist" : {
+		"id": uint(0),
+		"type": "Dragon",
+		"classification": uint(1),
+	},
+	"Elbow Drop" : {
+		"id": uint(0),
+		"type": "Ghost",
+		"classification": uint(1),
+	},
+	"Enema" : {
+		"id": uint(0),
+		"type": "Grass",
+		"classification": uint(1),
+	},
+	"Erosion Wave" : {
+		"id": uint(0),
+		"type": "Rock",
+		"classification": uint(2),
+	},
+	"Falcon Punch" : {
+		"id": uint(0),
+		"type": "Flying",
+		"classification": uint(1),
+	},
+	"Final Hour" : {
+		"id": uint(0),
+		"type": "Dark",
+		"classification": uint(2),
+	},
+	"Fire Bomb" : {
+		"id": uint(0),
+		"type": "Fire",
+		"classification": uint(1),
+	},
+	"Fizzbitch" : {
+		"id": uint(0),
+		"type": "Grass",
+		"classification": uint(2),
+	},
+	"Focus Munch" : {
+		"id": uint(0),
+		"type": "Fighting",
+		"classification": uint(0),
+	},
+	"For You" : {
+		"id": uint(0),
+		"type": "Fighting",
+		"classification": uint(1),
+	},
+	"Fruit Juice" : {
+		"id": uint(0),
+		"type": "Fairy",
+		"classification": uint(2),
+	},
+	"Fruit Punch" : {
+		"id": uint(0),
+		"type": "Fairy",
+		"classification": uint(1),
+	},
+	"Futaba Break" : {
+		"id": uint(0),
+		"type": "Grass",
+		"classification": uint(1),
+	},
+	"Gay Agenda" : {
+		"id": uint(0),
+		"type": "Fairy",
+		"classification": uint(0),
+	},
+	"Gazer Beam" : {
+		"id": uint(0),
+		"type": "Steel",
+		"classification": uint(2),
+	},
+	"Genesis Boost" : {
+		"id": uint(0),
+		"type": "Fairy",
+		"classification": uint(0),
+	},
+	"Great Rage" : {
+		"id": uint(0),
+		"type": "Grass",
+		"classification": uint(1),
+	},
+	"Holy Duty" : {
+		"id": uint(0),
+		"type": "Fire",
+		"classification": uint(2),
+	},
+	"Homerun Bat" : {
+		"id": uint(0),
+		"type": "Normal",
+		"classification": uint(1),
+	},
+	"Hulk Up" : {
+		"id": uint(0),
+		"type": "Fighting",
+		"classification": uint(0),
+	},
+	"Inverse Room" : {
+		"id": uint(0),
+		"type": "???",
+		"classification": uint(0),
+	},
+	"It's Over" : {
+		"id": uint(0),
+		"type": "Bug",
+		"classification": uint(0),
+	},
+	"Lactose Shot" : {
+		"id": uint(0),
+		"type": "Fairy",
+		"classification": uint(2),
+	},
+	"Lick Clean" : {
+		"id": uint(0),
+		"type": "Water",
+		"classification": uint(1),
+	},
+	"Livewire" : {
+		"id": uint(0),
+		"type": "Electric",
+		"classification": uint(0),
+	},
+	"Mating Press" : {
+		"id": uint(0),
+		"type": "Fairy",
+		"classification": uint(1),
+	},
+	"Max Memeitude" : {
+		"id": uint(0),
+		"type": "???",
+		"classification": uint(1),
+	},
+	"Meds Now" : {
+		"id": uint(0),
+		"type": "Poison",
+		"classification": uint(2),
+	},
+	"Meme" : {
+		"id": uint(0),
+		"type": "???",
+		"classification": uint(2),
+	},
+	"Meme Jr." : {
+		"id": uint(0),
+		"type": "???",
+		"classification": uint(1),
+	},
+	"Mop" : {
+		"id": uint(0),
+		"type": "Fairy",
+		"classification": uint(0),
+	},
+	"More Dakka" : {
+		"id": uint(0),
+		"type": "Steel",
+		"classification": uint(2),
+	},
+	"More Gun" : {
+		"id": uint(0),
+		"type": "Normal",
+		"classification": uint(2),
+	},
+	"Mud Maelstrom" : {
+		"id": uint(0),
+		"type": "Ground",
+		"classification": uint(2),
+	},
+	"Nuclear Winter" : {
+		"id": uint(0),
+		"type": "Ice",
+		"classification": uint(2),
+	},
+	"Overbite" : {
+		"id": uint(0),
+		"type": "Dark",
+		"classification": uint(1),
+	},
+	"Overenergize" : {
+		"id": uint(0),
+		"type": "Electric",
+		"classification": uint(2),
+	},
+	"Ow The Edge" : {
+		"id": uint(0),
+		"type": "Dark",
+		"classification": uint(1),
+	},
+	"Petrify" : {
+		"id": uint(0),
+		"type": "Rock",
+		"classification": uint(0),
+	},
+	"Phantom Fang" : {
+		"id": uint(0),
+		"type": "Ghost",
+		"classification": uint(1),
+	},
+	"Phase Through" : {
+		"id": uint(0),
+		"type": "Ghost",
+		"classification": uint(1),
+	},
+	"Pixie Pummel" : {
+		"id": uint(0),
+		"type": "Fairy",
+		"classification": uint(1),
+	},
+	"Please Don't Do That" : {
+		"id": uint(0),
+		"type": "Psychic",
+		"classification": uint(0),
+	},
+	"Plunder" : {
+		"id": uint(0),
+		"type": "Water",
+		"classification": uint(1),
+	},
+	"Psycho Fists" : {
+		"id": uint(0),
+		"type": "Psychic",
+		"classification": uint(1),
+	},
+	"Puke Blood" : {
+		"id": uint(0),
+		"type": "Bug",
+		"classification": uint(2),
+	},
+	"Punch Out" : {
+		"id": uint(0),
+		"type": "Fighting",
+		"classification": uint(1),
+	},
+	"Quick Sand" : {
+		"id": uint(0),
+		"type": "Ground",
+		"classification": uint(1),
+	},
+	"Regenerate" : {
+		"id": uint(0),
+		"type": "Grass",
+		"classification": uint(0),
+	},
+	"Riot Shield" : {
+		"id": uint(0),
+		"type": "Fighting",
+		"classification": uint(1),
+	},
+	"Rock Clock" : {
+		"id": uint(0),
+		"type": "Rock",
+		"classification": uint(1),
+	},
+	"Scorched Earth" : {
+		"id": uint(0),
+		"type": "Ground",
+		"classification": uint(2),
+	},
+	"Shadow Scales" : {
+		"id": uint(0),
+		"type": "Ghost",
+		"classification": uint(2),
+	},
+	"Shine Strike" : {
+		"id": uint(0),
+		"type": "Steel",
+		"classification": uint(1),
+	},
+	"Shitpost" : {
+		"id": uint(0),
+		"type": "Ground",
+		"classification": uint(1),
+	},
+	"Skull Cannon" : {
+		"id": uint(0),
+		"type": "Dark",
+		"classification": uint(2),
+	},
+	"Sleazy Spores" : {
+		"id": uint(0),
+		"type": "Grass",
+		"classification": uint(0),
+	},
+	"Slime Gulp" : {
+		"id": uint(0),
+		"type": "Poison",
+		"classification": uint(1),
+	},
+	"Soul Crusher" : {
+		"id": uint(0),
+		"type": "Ghost",
+		"classification": uint(2),
+	},
+	"Speed Weed" : {
+		"id": uint(0),
+		"type": "Grass",
+		"classification": uint(1),
+	},
+	"Spook Out" : {
+		"id": uint(0),
+		"type": "Ghost",
+		"classification": uint(1),
+	},
+	"Spooperpower" : {
+		"id": uint(0),
+		"type": "Ghost",
+		"classification": uint(2),
+	},
+	"Strato Blade" : {
+		"id": uint(0),
+		"type": "Flying",
+		"classification": uint(1),
+	},
+	"Strum" : {
+		"id": uint(0),
+		"type": "Normal",
+		"classification": uint(2),
+	},
+	"Sudoku" : {
+		"id": uint(0),
+		"type": "Normal",
+		"classification": uint(0),
+	},
+	"Super Snore" : {
+		"id": uint(0),
+		"type": "Ice",
+		"classification": uint(1),
+	},
+	"Swindle" : {
+		"id": uint(0),
+		"type": "Dark",
+		"classification": uint(2),
+	},
+	"Think Fast" : {
+		"id": uint(0),
+		"type": "Psychic",
+		"classification": uint(2),
+	},
+	"Toke" : {
+		"id": uint(0),
+		"type": "Fire",
+		"classification": uint(0),
+	},
+	"Tombstoner" : {
+		"id": uint(0),
+		"type": "Rock",
+		"classification": uint(1),
+	},
+	"Toxiravage" : {
+		"id": uint(0),
+		"type": "Poison",
+		"classification": uint(1),
+	},
+	"Trick Stab" : {
+		"id": uint(0),
+		"type": "Dark",
+		"classification": uint(1),
+	},
+	"Trigger" : {
+		"id": uint(0),
+		"type": "Psychic",
+		"classification": uint(2),
+	},
+	"Turnabout" : {
+		"id": uint(0),
+		"type": "Ghost",
+		"classification": uint(0),
+	},
+	"Villify" : {
+		"id": uint(0),
+		"type": "Dark",
+		"classification": uint(0),
+	},
+	"Voltaic Cyclone" : {
+		"id": uint(0),
+		"type": "Electric",
+		"classification": uint(2),
+	},
+	"Warhead" : {
+		"id": uint(0),
+		"type": "Steel",
+		"classification": uint(2),
+	},
+	"Weird Flex" : {
+		"id": uint(0),
+		"type": "Fighting",
+		"classification": uint(0),
+	},
+	"Wings Of Correction" : {
+		"id": uint(0),
+		"type": "Flying",
+		"classification": uint(2),
+	},
+	"Wow Wiener" : {
+		"id": uint(0),
+		"type": "Fire",
 		"classification": uint(2),
 	},
 }
