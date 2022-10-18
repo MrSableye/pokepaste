@@ -6273,11 +6273,6 @@ var pokemonData = map[string]map[string]interface{}{
 	},
 	"Simionach-Zen": {
 		"id": uint(42046),
-		"form": uint(0),
-		"type": "fighting",
-	},
-	"Simionach-Zen": {
-		"id": uint(42046),
 		"form": uint(1),
 		"type": "fighting",
 	},
