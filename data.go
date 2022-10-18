@@ -6026,760 +6026,880 @@ var pokemonData = map[string]map[string]interface{}{
 		"form": uint(0),
 		"type": "bug",
 	},
-	"Maplage" : {
+	"Maplage": {
 		"id": uint(42001),
 		"form": uint(0),
 		"type": "grass",
 	},
-	"Hazelnaut" : {
+	"Hazelnaut": {
 		"id": uint(42002),
 		"form": uint(0),
 		"type": "grass",
 	},
-	"Ginocchio" : {
+	"Ginocchio": {
 		"id": uint(42003),
 		"form": uint(0),
 		"type": "grass",
 	},
-	"Magmata" : {
+	"Magmata": {
 		"id": uint(42004),
 		"form": uint(0),
 		"type": "fire",
 	},
-	"Delava" : {
+	"Delava": {
 		"id": uint(42005),
 		"form": uint(0),
 		"type": "fire",
 	},
-	"Salezerker" : {
+	"Salezerker": {
 		"id": uint(42006),
 		"form": uint(0),
 		"type": "fire",
 	},
-	"Frudge" : {
+	"Frudge": {
 		"id": uint(42007),
 		"form": uint(0),
 		"type": "water",
 	},
-	"Chaotark" : {
+	"Aquaos": {
 		"id": uint(42008),
 		"form": uint(0),
 		"type": "water",
 	},
-	"Lemirethun" : {
+	"Lemirethun": {
 		"id": uint(42009),
 		"form": uint(0),
 		"type": "water",
 	},
-	"Jermouse" : {
+	"Jermin": {
 		"id": uint(42010),
 		"form": uint(0),
 		"type": "normal",
 	},
-	"Spiranha" : {
+	"Jermin-Swarm": {
+		"id": uint(42010),
+		"form": uint(1),
+		"type": "normal",
+	},
+	"Skuba": {
+		"id": uint(42011),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Skuba-Anti": {
+		"id": uint(42011),
+		"form": uint(1),
+		"type": "water",
+	},
+	"Spiranha": {
+		"id": uint(42012),
+		"form": uint(0),
+		"type": "water",
+	},
+	"Selaghast": {
 		"id": uint(42013),
 		"form": uint(0),
 		"type": "water",
 	},
-	"Selaghast" : {
+	"Karkutlass": {
 		"id": uint(42014),
 		"form": uint(0),
 		"type": "water",
 	},
-	"Karkutlass" : {
+	"Bandicute": {
 		"id": uint(42015),
 		"form": uint(0),
-		"type": "water",
+		"type": "ground",
 	},
-	"Bandicute" : {
+	"Naughtycoot": {
 		"id": uint(42016),
 		"form": uint(0),
 		"type": "ground",
 	},
-	"Naughtycoot" : {
+	"Frijolero": {
 		"id": uint(42017),
 		"form": uint(0),
-		"type": "ground",
+		"type": "grass",
 	},
-	"Frijolero" : {
+	"Picantero": {
 		"id": uint(42018),
 		"form": uint(0),
 		"type": "grass",
 	},
-	"Picantero" : {
+	"Sherifuego": {
 		"id": uint(42019),
-		"form": uint(0),
-		"type": "grass",
-	},
-	"Sherifuego" : {
-		"id": uint(42020),
 		"form": uint(0),
 		"type": "ghost",
 	},
-	"Magghost" : {
+	"Magghost": {
+		"id": uint(42020),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Coccurn": {
 		"id": uint(42021),
 		"form": uint(0),
 		"type": "bug",
 	},
-	"Coccurn" : {
+	"Phamothom": {
 		"id": uint(42022),
 		"form": uint(0),
 		"type": "bug",
 	},
-	"Phamothom" : {
+	"Larvitty": {
 		"id": uint(42023),
 		"form": uint(0),
 		"type": "bug",
 	},
-	"Larvitty" : {
+	"Grumpoon": {
 		"id": uint(42024),
 		"form": uint(0),
 		"type": "bug",
 	},
-	"Grumpoon" : {
+	"Konekoth": {
 		"id": uint(42025),
 		"form": uint(0),
 		"type": "bug",
 	},
-	"Konekoth" : {
+	"Hyduck": {
 		"id": uint(42026),
 		"form": uint(0),
-		"type": "bug",
+		"type": "psychic",
 	},
-	"Hyduck" : {
+	"Bluduck": {
 		"id": uint(42027),
 		"form": uint(0),
 		"type": "psychic",
 	},
-	"Bluduck" : {
+	"Platylics": {
 		"id": uint(42028),
 		"form": uint(0),
 		"type": "psychic",
 	},
-	"Platylics" : {
+	"Hamstatic": {
 		"id": uint(42029),
 		"form": uint(0),
-		"type": "psychic",
+		"type": "normal",
 	},
-	"Hamstatic" : {
+	"Ampstar": {
 		"id": uint(42030),
 		"form": uint(0),
 		"type": "normal",
 	},
-	"Ampstar" : {
+	"Disbeary": {
 		"id": uint(42031),
 		"form": uint(0),
 		"type": "normal",
 	},
-	"Disbeary" : {
+	"Disbeary-Ebil": {
+		"id": uint(42031),
+		"form": uint(1),
+		"type": "normal",
+	},
+	"Fungnet": {
 		"id": uint(42032),
 		"form": uint(0),
-		"type": "fairy",
+		"type": "grass",
 	},
-	"Fungnet" : {
+	"Floribel": {
 		"id": uint(42033),
 		"form": uint(0),
 		"type": "grass",
 	},
-	"Floribel" : {
+	"Mogeria": {
 		"id": uint(42034),
 		"form": uint(0),
 		"type": "grass",
 	},
-	"Mogeria" : {
+	"Flarhea": {
 		"id": uint(42035),
-		"form": uint(0),
-		"type": "grass",
-	},
-	"Flarhea" : {
-		"id": uint(42036),
 		"form": uint(0),
 		"type": "fire",
 	},
-	"Pedestone" : {
+	"Pedestone": {
+		"id": uint(42036),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Pillaia": {
 		"id": uint(42037),
 		"form": uint(0),
 		"type": "rock",
 	},
-	"Pillaia" : {
+	"Erochre": {
 		"id": uint(42038),
 		"form": uint(0),
 		"type": "rock",
 	},
-	"Erochre" : {
+	"Canamaple": {
 		"id": uint(42039),
 		"form": uint(0),
-		"type": "rock",
+		"type": "grass",
 	},
-	"Canamaple" : {
+	"Frozweed": {
 		"id": uint(42040),
 		"form": uint(0),
 		"type": "grass",
 	},
-	"Frozweed" : {
+	"Arachnote": {
 		"id": uint(42041),
-		"form": uint(0),
-		"type": "grass",
-	},
-	"Arachnote" : {
-		"id": uint(42042),
 		"form": uint(0),
 		"type": "bug",
 	},
-	"Turturret" : {
-		"id": uint(42043),
+	"Turturret": {
+		"id": uint(42042),
 		"form": uint(0),
 		"type": "ground",
 	},
-	"Spycrab" : {
-		"id": uint(42044),
+	"Spycrab": {
+		"id": uint(42043),
 		"form": uint(0),
 		"type": "water",
 	},
-	"Weatherbane" : {
-		"id": uint(42045),
+	"Weatherbane": {
+		"id": uint(42044),
 		"form": uint(0),
 		"type": "steel",
 	},
-	"Cyclonian" : {
-		"id": uint(42046),
+	"Cyclonian": {
+		"id": uint(42045),
 		"form": uint(0),
 		"type": "flying",
 	},
-	"Simionach" : {
-		"id": uint(42047),
+	"Simionach": {
+		"id": uint(42046),
 		"form": uint(0),
 		"type": "fighting",
 	},
-	"Wattitude" : {
-		"id": uint(42048),
+	"Simionach-Zen": {
+		"id": uint(42046),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Simionach-Zen": {
+		"id": uint(42046),
+		"form": uint(1),
+		"type": "fighting",
+	},
+	"Wattitude": {
+		"id": uint(42047),
 		"form": uint(0),
 		"type": "electric",
 	},
-	"Korokami" : {
-		"id": uint(42049),
+	"Korokami": {
+		"id": uint(42048),
 		"form": uint(0),
 		"type": "dark",
 	},
-	"Sabsute" : {
+	"Sabsute": {
+		"id": uint(42049),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Dollghost": {
 		"id": uint(42050),
 		"form": uint(0),
 		"type": "normal",
 	},
-	"Dollghost" : {
+	"Tarquail": {
 		"id": uint(42051),
-		"form": uint(0),
-		"type": "normal",
-	},
-	"Tarquail" : {
-		"id": uint(42052),
 		"form": uint(0),
 		"type": "poison",
 	},
-	"Eccosmic" : {
-		"id": uint(42053),
+	"Eccosmic": {
+		"id": uint(42052),
 		"form": uint(0),
 		"type": "water",
 	},
-	"Bearedaze" : {
+	"Eccosmic-Magellanic": {
+		"id": uint(42052),
+		"form": uint(1),
+		"type": "water",
+	},
+	"Eccosmic-Sol": {
+		"id": uint(42052),
+		"form": uint(2),
+		"type": "water",
+	},
+	"Eccosmic-Starburst": {
+		"id": uint(42052),
+		"form": uint(3),
+		"type": "water",
+	},
+	"Eccosmic-Quasar": {
+		"id": uint(42052),
+		"form": uint(4),
+		"type": "water",
+	},
+	"Eccosmic-Andromeda": {
+		"id": uint(42052),
+		"form": uint(5),
+		"type": "water",
+	},
+	"Eccosmic-Nebula": {
+		"id": uint(42052),
+		"form": uint(6),
+		"type": "water",
+	},
+	"Eccosmic-Milky Way": {
+		"id": uint(42052),
+		"form": uint(7),
+		"type": "water",
+	},
+	"Bearedaze": {
+		"id": uint(42053),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Kumataro": {
 		"id": uint(42054),
 		"form": uint(0),
 		"type": "normal",
 	},
-	"Kumataro" : {
+	"Jarumite": {
 		"id": uint(42055),
 		"form": uint(0),
-		"type": "normal",
+		"type": "dragon",
 	},
-	"Sokumite" : {
+	"Serpotine": {
 		"id": uint(42056),
 		"form": uint(0),
-		"type": "water",
+		"type": "dragon",
 	},
-	"Serpervent" : {
+	"Tsemani": {
 		"id": uint(42057),
 		"form": uint(0),
-		"type": "water",
+		"type": "dragon",
 	},
-	"Tsemani" : {
+	"Tadpoison": {
 		"id": uint(42058),
 		"form": uint(0),
-		"type": "water",
+		"type": "poison",
 	},
-	"Toxipole" : {
+	"Bretkhelm": {
 		"id": uint(42059),
 		"form": uint(0),
 		"type": "poison",
 	},
-	"Venoad" : {
+	"Berfgoyle": {
 		"id": uint(42060),
 		"form": uint(0),
 		"type": "poison",
 	},
-	"Berfgoyle" : {
+	"Flubunny": {
 		"id": uint(42061),
 		"form": uint(0),
-		"type": "poison",
+		"type": "fairy",
 	},
-	"Celestare" : {
+	"Lepooze": {
 		"id": uint(42062),
 		"form": uint(0),
 		"type": "fairy",
 	},
-	"Haregee" : {
+	"Lunabbit": {
 		"id": uint(42063),
 		"form": uint(0),
 		"type": "fairy",
 	},
-	"Lunabbit" : {
+	"Helmata": {
 		"id": uint(42064),
 		"form": uint(0),
-		"type": "fairy",
+		"type": "ground",
 	},
-	"Camorogue" : {
+	"Punkuyu": {
 		"id": uint(42065),
 		"form": uint(0),
 		"type": "ground",
 	},
-	"Puncheleon" : {
+	"Chamelee": {
 		"id": uint(42066),
 		"form": uint(0),
 		"type": "ground",
 	},
-	"Chamelee" : {
+	"Toastort": {
 		"id": uint(42067),
 		"form": uint(0),
-		"type": "ground",
+		"type": "steel",
 	},
-	"Toastort" : {
+	"Horntuba": {
 		"id": uint(42068),
 		"form": uint(0),
 		"type": "steel",
 	},
-	"Horntuba" : {
+	"Cristanium": {
 		"id": uint(42069),
 		"form": uint(0),
 		"type": "steel",
 	},
-	"Cristanium" : {
+	"Cheesetah": {
 		"id": uint(42070),
-		"form": uint(0),
-		"type": "steel",
-	},
-	"Cheesetah" : {
-		"id": uint(42071),
 		"form": uint(0),
 		"type": "electric",
 	},
-	"Whipsicuffs" : {
+	"Whipsicuffs": {
+		"id": uint(42071),
+		"form": uint(0),
+		"type": "bug",
+	},
+	"Tarantagon": {
 		"id": uint(42072),
 		"form": uint(0),
 		"type": "bug",
 	},
-	"Tarantagon" : {
+	"Pegui": {
 		"id": uint(42073),
 		"form": uint(0),
-		"type": "bug",
+		"type": "ice",
 	},
-	"Pegui" : {
+	"Pechit": {
 		"id": uint(42074),
 		"form": uint(0),
 		"type": "ice",
 	},
-	"Pechit" : {
+	"Copolar": {
 		"id": uint(42075),
 		"form": uint(0),
 		"type": "ice",
 	},
-	"Copolar" : {
+	"Yuukiino": {
 		"id": uint(42076),
 		"form": uint(0),
 		"type": "ice",
 	},
-	"Yuukiino" : {
+	"Aquadiiva": {
 		"id": uint(42077),
-		"form": uint(0),
-		"type": "ice",
-	},
-	"Aquadiiva" : {
-		"id": uint(42078),
 		"form": uint(0),
 		"type": "water",
 	},
-	"Monkite" : {
+	"Monkite": {
+		"id": uint(42078),
+		"form": uint(0),
+		"type": "flying",
+	},
+	"Konglide": {
 		"id": uint(42079),
 		"form": uint(0),
 		"type": "flying",
 	},
-	"Konglide" : {
+	"Yokite": {
 		"id": uint(42080),
 		"form": uint(0),
 		"type": "flying",
 	},
-	"Yokite" : {
+	"Borkosmos": {
 		"id": uint(42081),
 		"form": uint(0),
 		"type": "flying",
 	},
-	"Borkosmos" : {
+	"Skallaxy": {
 		"id": uint(42082),
 		"form": uint(0),
 		"type": "flying",
 	},
-	"Skallaxy" : {
+	"Icehugger": {
 		"id": uint(42083),
 		"form": uint(0),
-		"type": "flying",
+		"type": "ice",
 	},
-	"Icehugger" : {
+	"Xeninter": {
 		"id": uint(42084),
 		"form": uint(0),
 		"type": "ice",
 	},
-	"Xeninter" : {
+	"Bubbasaur": {
 		"id": uint(42085),
 		"form": uint(0),
-		"type": "ice",
+		"type": "fairy",
 	},
-	"Bubbasaur" : {
+	"Bungaloon": {
 		"id": uint(42086),
 		"form": uint(0),
 		"type": "fairy",
 	},
-	"Bungaloon" : {
+	"Envile": {
 		"id": uint(42087),
 		"form": uint(0),
-		"type": "fairy",
+		"type": "dark",
 	},
-	"Envile" : {
+	"Kaustikrok": {
 		"id": uint(42088),
 		"form": uint(0),
 		"type": "dark",
 	},
-	"Kaustikrok" : {
+	"3dawg": {
 		"id": uint(42089),
-		"form": uint(0),
-		"type": "dark",
-	},
-	"3dawg" : {
-		"id": uint(42090),
 		"form": uint(0),
 		"type": "normal",
 	},
-	"Drattel" : {
+	"Drattel": {
 		"id": uint(42090),
 		"form": uint(0),
 		"type": "dragon",
 	},
-	"Zillichina" : {
+	"Zillichina": {
 		"id": uint(42091),
 		"form": uint(0),
 		"type": "dragon",
 	},
-	"Venireal" : {
+	"Venireal": {
 		"id": uint(42092),
 		"form": uint(0),
 		"type": "psychic",
 	},
-	"Apocamise" : {
+	"Apocamise": {
 		"id": uint(42093),
 		"form": uint(0),
 		"type": "psychic",
 	},
-	"Voliath" : {
+	"Voliath": {
 		"id": uint(42094),
 		"form": uint(0),
 		"type": "dragon",
 	},
-	"Mafiadon" : {
+	"Mafiadon": {
 		"id": uint(42095),
 		"form": uint(0),
 		"type": "dark",
 	},
-	"Wycern" : {
+	"Wycern": {
 		"id": uint(42096),
 		"form": uint(0),
 		"type": "dragon",
 	},
-	"Bitteragon" : {
+	"Bitteragon": {
 		"id": uint(42097),
 		"form": uint(0),
 		"type": "dragon",
 	},
-	"Trickling" : {
+	"Trickling": {
 		"id": uint(42098),
 		"form": uint(0),
 		"type": "dark",
 	},
-	"Draklown" : {
+	"Draklown": {
 		"id": uint(42099),
 		"form": uint(0),
 		"type": "dark",
 	},
-	"Moyalith" : {
+	"Moyalith": {
 		"id": uint(42100),
 		"form": uint(0),
 		"type": "rock",
 	},
-	"Dinomight" : {
+	"Dinomight": {
 		"id": uint(42101),
 		"form": uint(0),
 		"type": "rock",
 	},
-	"Cocken" : {
+	"Cocken": {
 		"id": uint(42102),
 		"form": uint(0),
-		"type": "???",
+		"type": "",
 	},
-	"Primateve" : {
+	"Cocken-Mega": {
+		"id": uint(42102),
+		"form": uint(1),
+		"type": "",
+	},
+	"Primiteve": {
 		"id": uint(42103),
 		"form": uint(0),
 		"type": "rock",
 	},
-	"Tokoyaki" : {
+	"Tokoyaki": {
 		"id": uint(42104),
 		"form": uint(0),
 		"type": "water",
 	},
-	"Onsenpura" : {
+	"Onsenpura": {
 		"id": uint(42105),
 		"form": uint(0),
 		"type": "rock",
 	},
-	"Vulkancer" : {
+	"Molterra": {
 		"id": uint(42106),
 		"form": uint(0),
 		"type": "fire",
 	},
-	"Dubsnake" : {
+	"Dubsnake": {
 		"id": uint(42107),
 		"form": uint(0),
 		"type": "ice",
 	},
-	"Hydroil" : {
+	"Hydroil": {
 		"id": uint(42108),
 		"form": uint(0),
 		"type": "water",
 	},
-	"Equuan" : {
+	"Equuan": {
 		"id": uint(42109),
 		"form": uint(0),
 		"type": "normal",
 	},
-	"Impfection" : {
+	"Impfection": {
 		"id": uint(42110),
 		"form": uint(0),
 		"type": "poison",
 	},
-	"Junkgeist" : {
+	"Junkgeist": {
 		"id": uint(42111),
 		"form": uint(0),
 		"type": "poison",
 	},
-	"Krissy" : {
+	"Krissy": {
 		"id": uint(42112),
 		"form": uint(0),
 		"type": "electric",
 	},
-	"Krackodemon" : {
+	"Krackodemon": {
 		"id": uint(42113),
 		"form": uint(0),
 		"type": "electric",
 	},
-	"Strollge" : {
+	"Strollge": {
 		"id": uint(42114),
 		"form": uint(0),
 		"type": "normal",
 	},
-	"Mamini" : {
+	"Mamini": {
 		"id": uint(42115),
 		"form": uint(0),
 		"type": "ice",
 	},
-	"Mammount" : {
+	"Mammount": {
 		"id": uint(42116),
 		"form": uint(0),
 		"type": "ice",
 	},
-	"Vriskeleton" : {
+	"Vriskeleton": {
 		"id": uint(42117),
 		"form": uint(0),
 		"type": "dark",
 	},
-	"Bulbfrog" : {
+	"Bulbfrog": {
 		"id": uint(42118),
 		"form": uint(0),
 		"type": "electric",
 	},
-	"Ballboa" : {
+	"Ballboa": {
 		"id": uint(42119),
 		"form": uint(0),
 		"type": "rock",
 	},
-	"Semmush" : {
+	"Semmush": {
 		"id": uint(42120),
 		"form": uint(0),
 		"type": "water",
 	},
-	"Husbin" : {
+	"Husbin": {
 		"id": uint(42121),
 		"form": uint(0),
 		"type": "fighting",
 	},
-	"Smogars" : {
+	"Smogars": {
 		"id": uint(42122),
 		"form": uint(0),
 		"type": "poison",
 	},
-	"Noxilium" : {
+	"Gargarramer": {
+		"id": uint(42123),
+		"form": uint(0),
+		"type": "rock",
+	},
+	"Gargarramer-Awoken": {
+		"id": uint(42123),
+		"form": uint(1),
+		"type": "rock",
+	},
+	"Noxilium": {
 		"id": uint(42124),
 		"form": uint(0),
 		"type": "ghost",
 	},
-	"Fusjahl" : {
+	"Fusjahl": {
 		"id": uint(42125),
 		"form": uint(0),
-		"type": "???",
+		"type": "",
 	},
-	"Indignifly" : {
+	"Indignifly": {
 		"id": uint(42126),
 		"form": uint(0),
 		"type": "bug",
 	},
-	"Regishort" : {
+	"Regishort": {
 		"id": uint(42127),
 		"form": uint(0),
 		"type": "electric",
 	},
-	"Regicide" : {
+	"Regicide": {
 		"id": uint(42128),
 		"form": uint(0),
 		"type": "dragon",
 	},
-	"Regigigone" : {
+	"Regigigone": {
 		"id": uint(42129),
 		"form": uint(0),
 		"type": "normal",
 	},
-	"Glaciun" : {
+	"Glaciun": {
 		"id": uint(42130),
 		"form": uint(0),
 		"type": "ice",
 	},
-	"Galvadeux" : {
+	"Galvadeux": {
 		"id": uint(42131),
 		"form": uint(0),
 		"type": "electric",
 	},
-	"Pyrotrois" : {
+	"Pyrotrois": {
 		"id": uint(42132),
 		"form": uint(0),
 		"type": "fire",
 	},
-	"Ranruu" : {
+	"Ranruu": {
 		"id": uint(42133),
 		"form": uint(0),
 		"type": "dark",
 	},
-	"Loituma" : {
+	"Loituma": {
 		"id": uint(42134),
 		"form": uint(0),
 		"type": "grass",
 	},
-	"Ignifatu" : {
+	"Ignifatu": {
 		"id": uint(42135),
 		"form": uint(0),
 		"type": "fire",
 	},
-	"Spenjbab" : {
+	"Spenjbab": {
 		"id": uint(42136),
 		"form": uint(0),
 		"type": "grass",
 	},
-	"Gigapuddi" : {
+	"Gigapuddi": {
 		"id": uint(42137),
 		"form": uint(0),
 		"type": "fairy",
 	},
-	"Empidae" : {
+	"Empidae": {
 		"id": uint(42138),
 		"form": uint(0),
 		"type": "normal",
 	},
-	"Phantorney" : {
+	"Phantorney": {
 		"id": uint(42139),
 		"form": uint(0),
 		"type": "ghost",
 	},
-	"Cirnumiru" : {
+	"Cirnumiru": {
 		"id": uint(42140),
 		"form": uint(0),
 		"type": "ice",
 	},
-	"Seraphill" : {
+	"Seraphill": {
 		"id": uint(42141),
 		"form": uint(0),
 		"type": "electric",
 	},
-	"Shiribiko" : {
+	"Shiribiko": {
 		"id": uint(42142),
 		"form": uint(0),
 		"type": "psychic",
 	},
-	"Nyanonite" : {
+	"Nyanonite": {
 		"id": uint(42143),
 		"form": uint(0),
 		"type": "fairy",
 	},
-	"Ankhira" : {
+	"Ankhira": {
 		"id": uint(42144),
 		"form": uint(0),
 		"type": "ground",
 	},
-	"Ankhpu" : {
+	"Ankhpu": {
 		"id": uint(42145),
 		"form": uint(0),
 		"type": "ground",
 	},
-	"Ankhurah" : {
+	"Ankhurah": {
 		"id": uint(42146),
 		"form": uint(0),
 		"type": "ground",
 	},
-	"Squithee" : {
+	"Squithee": {
 		"id": uint(42147),
 		"form": uint(0),
 		"type": "steel",
 	},
-	"Goblazer" : {
+	"Goblazer": {
 		"id": uint(42148),
 		"form": uint(0),
 		"type": "steel",
 	},
-	"Warghork" : {
+	"Warghork": {
 		"id": uint(42149),
 		"form": uint(0),
 		"type": "steel",
 	},
-	"Wawho" : {
+	"Wawho": {
 		"id": uint(42150),
 		"form": uint(0),
-		"type": "???",
+		"type": "",
 	},
-	"Sableven" : {
+	"Sablini": {
 		"id": uint(42151),
 		"form": uint(0),
 		"type": "steel",
 	},
-	"Doomsday" : {
+	"Doomsday": {
 		"id": uint(42152),
 		"form": uint(0),
 		"type": "ghost",
 	},
-	"Katir" : {
-		"id": uint(42241),
+	"Peasol": {
+		"id": uint(42161),
 		"form": uint(0),
 		"type": "normal",
+	},
+	"Vaponobi": {
+		"id": uint(42162),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Haarshogun": {
+		"id": uint(42163),
+		"form": uint(0),
+		"type": "normal",
+	},
+	"Vinebomb": {
+		"id": uint(42164),
+		"form": uint(0),
+		"type": "grass",
+	},
+	"Fucker": {
+		"id": uint(42165),
+		"form": uint(0),
+		"type": "fighting",
+	},
+	"Fucker-Konata": {
+		"id": uint(42165),
+		"form": uint(1),
+		"type": "fighting",
+	},
+	"Emojinn": {
+		"id": uint(42166),
+		"form": uint(0),
+		"type": "psychic",
+	},
+	"Sporestool": {
+		"id": uint(42167),
+		"form": uint(0),
+		"type": "fairy",
+	},
+	"Peashroom": {
+		"id": uint(42168),
+		"form": uint(0),
+		"type": "fairy",
 	},
 	"Grasshole" : {
 		"id": uint(69001),
